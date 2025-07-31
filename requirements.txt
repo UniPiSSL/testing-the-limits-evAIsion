@@ -1,0 +1,5 @@
+torch==2.0.1
+torchvision==0.15.2
+adversarial-robustness-toolbox==1.17.1
+pandas==2.2.2
+numpy==1.26.4
